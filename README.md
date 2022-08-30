@@ -1,6 +1,11 @@
 # AppleMagsafe
 Apple Magsafe Sniffs
 
+Current Founds:
+1.Apple uses private apdu commands.
+2.Apple uses private Wupa commands.
+3.iPhone can detect two or more magsafe chips in the field.
+
 __Apple Magsafe Wallet With Find My__
 ```
 [=] downloading tracelog data from device
@@ -591,6 +596,7 @@ __Apple Magsafe Battery Pack__
 
 ```
 Another thing interesting is that if two magsafe devices in the field, the iphone can both recognize.
+![WechatIMG81](https://user-images.githubusercontent.com/10905105/187521111-177690b3-3fc8-4448-aab3-93243f3b0231.jpeg)
 ___Magsafe Battery and Wallet___
 ```
 usb] pm3 --> hf 14a list
@@ -1223,3 +1229,4 @@ usb] pm3 --> hf 14a list
    50321232 |   50322288 | Rdr |26(7)                                                                    |     | REQA
 [usb] pm3 --> 
 ```
+
