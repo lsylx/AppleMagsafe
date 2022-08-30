@@ -1,10 +1,10 @@
 # AppleMagsafe
 Apple Magsafe Sniffs
 
-Current Founds:
-1.Apple uses private apdu commands.
-2.Apple uses private Wupa commands.
-3.iPhone can detect two or more magsafe chips in the field.
+Current Founds: 
+1.Apple uses private apdu commands. 
+2.Apple uses private Wupa commands. 
+3.iPhone can detect two or more magsafe chips in the field. 
 
 __Apple Magsafe Wallet With Find My__
 ```
